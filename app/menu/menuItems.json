@@ -1,0 +1,62 @@
+[
+    {
+      "title": "Spaghetti Carbonara",
+      "ingredients": "Spaghetti, Eggs, Parmesan, Pancetta, Pepper"
+    },
+    {
+      "title": "Margherita Pizza",
+      "ingredients": "Tomato, Mozzarella, Basil, Olive Oil, Salt"
+    },
+    {
+      "title": "Caesar Salad",
+      "ingredients": "Romaine Lettuce, Croutons, Parmesan, Caesar Dressing"
+    },
+    {
+      "title": "Grilled Chicken",
+      "ingredients": "Chicken Breast, Olive Oil, Garlic, Lemon, Herbs"
+    },
+    {
+      "title": "Beef Tacos",
+      "ingredients": "Ground Beef, Taco Shells, Lettuce, Tomato, Cheese, Salsa"
+    },
+    {
+      "title": "Vegetable Stir Fry",
+      "ingredients": "Broccoli, Bell Peppers, Carrots, Soy Sauce, Ginger, Garlic"
+    },
+    {
+      "title": "Mushroom Risotto",
+      "ingredients": "Arborio Rice, Mushrooms, Parmesan, White Wine, Onion, Garlic"
+    },
+    {
+      "title": "BBQ Ribs",
+      "ingredients": "Pork Ribs, BBQ Sauce, Brown Sugar, Garlic Powder, Onion Powder"
+    },
+    {
+      "title": "Greek Salad",
+      "ingredients": "Cucumber, Tomato, Feta Cheese, Olives, Red Onion, Olive Oil"
+    },
+    {
+      "title": "Chicken Alfredo",
+      "ingredients": "Fettuccine, Chicken Breast, Alfredo Sauce, Parmesan, Garlic"
+    },
+    {
+      "title": "Fish and Chips",
+      "ingredients": "Cod, Potatoes, Flour, Beer, Salt, Pepper"
+    },
+    {
+      "title": "Eggplant Parmesan",
+      "ingredients": "Eggplant, Marinara Sauce, Mozzarella, Parmesan, Basil"
+    },
+    {
+      "title": "Shrimp Scampi",
+      "ingredients": "Shrimp, Garlic, White Wine, Lemon, Butter, Parsley"
+    },
+    {
+      "title": "Lamb Chops",
+      "ingredients": "Lamb Chops, Rosemary, Garlic, Olive Oil, Lemon"
+    },
+    {
+      "title": "Pancakes",
+      "ingredients": "Flour, Eggs, Milk, Baking Powder, Sugar, Butter"
+    }
+  ]

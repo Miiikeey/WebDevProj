@@ -21,9 +21,9 @@ export default function Footer() {
           <div className="w-full md:w-1/2 p-4">
             <h2 className="text-2xl font-bold mb-4">Reviews</h2>
             <div className="bg-white p-4 rounded shadow">
-              <p className="mb-2">Great food and excellent service! - John Doe</p>
-              <p className="mb-2">A wonderful dining experience. - Jane Smith</p>
-              <p className="mb-2">Highly recommend this place! - Alex Johnson</p>
+              <p className="text-black mb-2">Great food and excellent service! - John Doe</p>
+              <p className="text-black mb-2">A wonderful dining experience. - Jane Smith</p>
+              <p className="text-black mb-2">Highly recommend this place! - Alex Johnson</p>
             </div>
           </div>
         </div>
